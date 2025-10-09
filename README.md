@@ -6,7 +6,7 @@
 🤝 I’m looking to collaborate on **Open Source and Development Projects**  
 🎯 My goal is to **grow as a developer and contribute to impactful projects**  
 💬 Ask me about **C, C++, HTML, CSS, JS, React, Python, and MySQL**  
-📫 Reach me at **saitejabingi@gmail.com**  
+📫 Reach me at **saiteja1973b@gmail.com**  
 
 ---
 
