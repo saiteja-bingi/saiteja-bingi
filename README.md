@@ -1,53 +1,86 @@
-# Hi 👋, I'm Sai Teja Bingi  
-### 🚀 A Passionate Developer from India  
+<!-- Animated Typing Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+SaiTeja+Bingi;Full-Stack+Developer+💻;DSA+Enthusiast+⚔️;Competitive+Programmer+🏆;Lifelong+Learner+🚀" alt="Typing SVG" />
+</p>
+
+---
+
+### 👨‍💻 About Me  
 
 🌱 I’m currently learning **Data Structures & Algorithms, Competitive Programming, and Full-Stack Development**  
 💻 I love building **web applications** and solving **real-world problems with clean and efficient code**  
 🤝 I’m looking to collaborate on **Open Source and Development Projects**  
 🎯 My goal is to **grow as a developer and contribute to impactful projects**  
 💬 Ask me about **C, C++, HTML, CSS, JS, React, Python, and MySQL**  
-📫 Reach me at **saiteja1973b@gmail.com**  
+📫 Reach me at **saiteja1973b@gmail.com**
 
 ---
 
-### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saitejabingi/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/saitejabingi/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/saiteja-bingi)
+
+### 🌐 Connect with Me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/saitejabingi/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/saitejabingi/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="48" height="48" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/saiteja-bingi" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="48" height="48" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:saiteja1973b@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="48" height="48" alt="Gmail"/>
+  </a>
+</p>
+
 
 ---
 
-### 🛠️ Languages and Tools:
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+<h3 align="center">🧠 Languages, Frameworks & Tools I Use</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,bootstrap,js,react,mysql,vscode,git,github" />
+</p>
 
 ---
 
-### 📊 GitHub Stats:
-![Sai Teja's GitHub stats](https://github-readme-stats.vercel.app/api?username=saiteja-bingi&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja-bingi&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saiteja-bingi&theme=tokyonight)
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saiteja-bingi&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-### 🏆 Achievements & Goals
-- 🌟 Solving DSA problems daily to sharpen problem-solving skills  
-- ⚔️ Active in **Competitive Programming** on various platforms  
-- 🧩 Building **projects that combine creativity and functionality**  
-- 💡 Continuously learning new technologies and best coding practices  
-- 🌍 Aspiring to work with top tech companies and contribute to **open-source communities**
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saiteja-bingi&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja-bingi&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiteja-bingi&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
+### 🚀 Achievements & Goals
+- 🌟 Solving DSA problems daily to strengthen problem-solving skills  
+- ⚔️ Competing in **Competitive Programming** contests regularly  
+- 🧩 Building **creative and functional web applications**  
+- 💡 Exploring new technologies to stay ahead in development  
+- 🌍 Aiming to work with top tech companies and contribute to **open-source communities**
+
+---
+
+### 👁️ Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saiteja-bingi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+</p>
 
 ---
 
 ### ✨ Quote I Live By
-> "Limits shatter in the face of relentless will."
+> *"Limits shatter in the face of relentless will."*
