@@ -1,6 +1,6 @@
 <!-- Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+SaiTeja+Bingi;Full-Stack+Developer+💻;DSA+Enthusiast+⚔️;Competitive+Programmer+🏆;Lifelong+Learner+🚀" alt="Typing SVG" />
+  <strong style="font-size:26px;">Hi 👋, I'm SaiTeja Bingi</strong>
 </p>
 
 ---
