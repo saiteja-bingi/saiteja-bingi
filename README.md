@@ -1,6 +1,8 @@
 <!-- Animated Typing Banner -->
 <p align="center">
-  <strong style="font-size:26px;">Hi 👋, I'm SaiTeja Bingi</strong>
+  <span style="font-size:72px; font-weight:bold; color:#00CED1;">
+    Hi 👋, I'm SaiTeja Bingi
+  </span>
 </p>
 
 ---
