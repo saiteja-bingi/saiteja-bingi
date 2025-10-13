@@ -1,11 +1,10 @@
 <!-- Animated Typing Banner -->
-<p align="center">
-  <span style="font-size:72px; font-weight:bold; color:#00CED1;">
-    Hi 👋, I'm SaiTeja Bingi
-  </span>
+<p>
+  <h1 align="center">Hi 👋, I'm SaiTeja Bingi </h1>
 </p>
 
----
+
+
 
 ### 👨‍💻 About Me  
 
@@ -49,12 +48,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saiteja-bingi&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -62,9 +55,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja-bingi&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiteja-bingi&theme=tokyonight&hide_border=true" height="150" />
-</p>
 
 ---
 
@@ -75,8 +65,3 @@
 - 💡 Exploring new technologies to stay ahead in development  
 - 🌍 Aiming to work with top tech companies and contribute to **open-source communities**
 
----
-
-
-### ✨ Quote I Live By
-> *"Limits shatter in the face of relentless will."*
