@@ -46,15 +46,6 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,bootstrap,js,react,mysql,vscode,git,github" />
 </p>
 
----
-
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saiteja-bingi&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja-bingi&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
 
 ---
 
