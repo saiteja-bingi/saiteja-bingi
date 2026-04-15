@@ -22,13 +22,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saitejabingi/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/saitejabingi/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:saiteja1973b@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
 </p>
 
