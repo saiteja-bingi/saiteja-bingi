@@ -28,10 +28,6 @@
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="48" height="48" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/saiteja-bingi" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/ffffff" width="48" height="48" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:saiteja1973b@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="48" height="48" alt="Gmail"/>
   </a>
